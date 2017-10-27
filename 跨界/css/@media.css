@@ -1,0 +1,166 @@
+/*----------------------------------------------尺寸切换--------------------------------*/
+@media screen and (max-width:641px) {
+    /*首页切换*/
+    .top{
+        display: none;
+    }
+    .m1
+    {
+        width: 100%;
+    }
+    #header
+    {
+        width: 100%;
+        height: 90px;
+        margin-bottom: 0px;
+        z-index: 11;
+    }
+    #header img
+    {
+        display: inline-block;
+        height: 70px;
+        margin-top: 13px;
+        margin-right: 66px;
+    }
+    .m2
+    {
+        display: none;
+    }
+    #ul001
+    {
+        float: left;
+        margin: 0;
+    }
+    #ul001 li
+    {
+        margin-top: 13px;
+        margin-left: 0px;
+    }
+    #ul001 li a
+    {
+        height: 30px;
+        padding: 0px;
+        text-align: left;
+    }
+
+    #doc-topbar-collapse
+    {
+        background: #f8f8f8;
+        padding: 0px;
+        width: 100px;
+    }
+    .am-icon-bars
+    {
+        color: #9c9c9c;
+    }
+    .am-icon-bars::before
+    {
+        font-size: 36px;
+        line-height: 60px;
+
+    }
+    .clear{
+        clear:both
+    }
+    .m3
+    {
+        display: none;
+    }
+    .sjm4
+    {
+        display: flex;
+    }
+    #pcpic
+    {
+        display: none;
+    }
+    #sjpic
+    {
+        display: block;
+    }
+    #pcpic
+    {
+        display: none;
+    }
+    #sjxh
+    {
+        display: block;
+    }
+    #sjtext
+    {
+        display: block;
+    }
+    #pckh{
+        display: none;
+    }
+    #pckhpic
+    {
+        display: none;
+    }
+    #sjku{
+        display: block;
+    }
+    #pcmap
+    {
+        display: none;
+    }
+    #sjmap
+    {
+        display: block;
+    }
+    #pcxx{
+        display: none;
+    }
+    #sjxx
+    {
+        display: block;
+    }
+    #sjewm
+    {
+        display: block;
+    }
+    #sjfoot
+    {
+        display: block;
+    }
+    #sjdivider
+    {
+        display: block;
+    }
+    #sjlx
+    {
+        display: block;
+    }
+    #pckulianxi
+    {
+        display: none;
+    }
+    #pcxiala
+    {
+        top: 341px;
+        left: 0;
+        width: 100px;
+    }
+    #pcfooter
+    {
+        display: none;
+    }
+    /*--关于我们--*/
+    .box
+    {
+        display: none;
+    }
+    .sjbox
+    {
+        display: block;
+    }
+    .img1-img
+    {
+        display: none;
+    }
+    .img1-img2
+    {
+        display: block;
+    }
+
+}

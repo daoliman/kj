@@ -1,0 +1,171 @@
+/*手机底部*/
+        #sjfoot
+        {
+            margin-top: 20px;
+            height: 100%;
+            background: #3c3c3c;
+            color: #c7c7c7;
+            font-size:14px ;
+            display: none;
+
+        }
+        #sjfoot div
+        {
+            text-align: left;
+            margin-left: 10px;
+            padding-top: 20px;
+        }
+
+        #sjfoot a
+        {
+            color: #c7c7c7;
+
+        }
+        #sjfoot a:hover {
+            color: #0a628f;
+        }
+/*电脑导航*/
+        html {
+            height: 100%;
+            overflow: auto;
+        }
+
+        body{
+            text-align: center;
+            margin:0;
+            padding: 0;
+            background: #f5f5f5;
+            width: auto;
+            height: auto;
+        }
+        .top
+        {
+            height: 30px;
+            background: #e5e5e5;
+        }
+        .top1
+        {
+            width: 1200px;
+            margin: 0 auto;
+            height: 30px;
+        }
+        .top1 div
+        {
+            float: right;
+            margin-left:50px;
+            font-size: 12px;
+            margin-top: 5px;
+        }
+
+        #m
+        {
+            background: #f8f8f8;
+        }
+        .m1
+        {
+            width: 1200px;
+            margin: 0 auto;
+            background: #f8f8f8;
+            height:90px;
+        }
+        .m2
+        {
+            width: 20%;
+            float: left;
+            margin-top: 12px;
+        }
+        .m2 img
+        {
+            height: 70px;
+        }
+        .am-topbar-collapse ul
+        {
+            float: right;
+            margin-top: 20px;
+        }
+        #header
+        {
+            width: 80%;float: right;border-style: none;
+            height: 70px;
+        }
+        #header img
+        {
+            display: none;
+        }
+        #ul001 li
+        {
+            margin-left: 57px;
+            font-size: 19px;
+        }
+        #ul001 a:after {
+            background: none;
+            border: none;
+        }
+        #ul001 a:hover
+        {
+            cursor: pointer;
+            border-bottom: 3px solid #0c79b1;
+        }
+        #ul001 a
+        {
+            height: 69px;
+        }
+        #pcxiala
+        {
+            background: #f8f8f8;
+            position: fixed;
+            z-index: 1;
+            right: 74px;
+            top: 86px;
+            position: fixed;
+            width: 118px;
+            display: none;
+        }
+        #pcxiala a
+        {
+            display: block;
+            margin: 5px 0 5px 0;
+            color: #666;
+        }
+        #pcxiala a:hover
+        {
+            background: #c7c7c7;
+        }
+/*电脑底部*/
+        #pcfooter
+        {
+            margin-top: 164px;
+            height: 300px;
+            background: #3c3c3c;
+            color: #c7c7c7;
+            font-size: 12px;
+        }
+        #pcfoot
+        {
+            width: 1200px;
+            margin: 0 auto;
+            position: relative;
+        }
+        #pcfoot1
+        {
+            margin-left: 180px;
+            padding-top: 30px;
+        }
+        #pcfoot1 div
+        {
+            display: inline-block;
+            float: left;
+            margin-right: 90px;
+            text-align: left;
+        }
+        #pcfoot1 a
+        {
+            color: #c7c7c7;
+        }
+        #pcfoot1 a:hover{color: #0a628f}
+        #pcfoot2
+        {
+            display: block;
+            margin-left: 240px;
+            margin-top: 42px;
+        }

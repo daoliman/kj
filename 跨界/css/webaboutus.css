@@ -1,0 +1,156 @@
+.img1
+{
+    position: relative;
+}
+.img1 img
+{
+    width: 100%;
+    z-index: 0;
+}
+.img1-p1
+{
+    position: absolute;
+    top: 22%;
+    left: 41.6%;
+    z-index: 1;
+    color: #FFFFFF;
+    font-size: 3.5vw;
+}
+.img1-p2
+{
+    position: absolute;
+    top: 44%;
+    left: 44.5%;
+    z-index: 1;
+    color: #FFFFFF;
+    font-size: 2.5vw;
+}
+.box
+{
+    width: 90%;
+    height: auto;
+    margin: 0 auto;
+    background: #FFFFFF;
+}
+.box-text
+{
+    display: inline-block;
+    text-align: left;
+
+    width: 65%;
+}
+.box-text p
+{
+    margin: 0;
+}
+.box-Box
+{
+    display: inline-block;
+}
+.box-Box1
+{
+    width: 22.5vw;
+    height: 8.5vw;
+    border: 1px solid #f0f0f0;
+    margin-bottom: 17%;
+}
+
+.Box1-txt
+{
+   display: inline-block;
+}
+.box-Box2
+{
+    width: 22.5vw;
+    height: 8.5vw;
+    border: 1px solid #f0f0f0;
+}
+.Box2-txt
+{
+    display: inline-block;
+}
+.box-Box-a
+{
+    display: inline-block;
+    margin-top: 9%;
+    float: left;
+    margin-left: 15%;
+}
+.box-Box3
+{
+    position: relative;
+}
+.box-Box3 p
+{
+    position: absolute;
+    color: #FFFFFF;
+    font-size: 1.3vw;
+    top: 5%;
+    right: 10%;
+    margin: 0;
+}
+.sjbox
+{
+    display: none;
+    width: 95%;
+    height: auto;
+    margin: 0 auto;
+    background: #FFFFFF;
+    display: none;
+    margin-bottom: 9%;
+}
+.img1-img2
+{
+    display: none;
+}
+.sjbox-text
+{
+    position: absolute;
+    background: #fff;
+    top: -4%;
+}
+.sjbox-Box
+{
+    display: inline-block;
+    margin-top: 89%;
+}
+.sjbox-Box1
+{
+    width: 42.5vw;
+    height: 17.5vw;
+    border: 1px solid #c3c3c3;
+
+    display: inline-block;
+}
+.sjBox1-txt
+{
+    display: inline-block;
+    margin-top: 8%;
+}
+.sjbox-Box2
+{
+    width: 42.5vw;
+    height: 17.5vw;
+    border: 1px solid #c3c3c3;
+    display: inline-block;
+}
+.sjBox2-txt
+{
+    display: inline-block;
+    margin-top: 8%;
+}
+.sjbox-Box-a
+{
+    display: inline-block;
+    margin-top: 7%;
+    float: left;
+    margin-left: 11%;
+}
+.sjbox-Box3
+{
+
+}
+.sjbox-Box3 p
+{
+
+}

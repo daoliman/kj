@@ -1,0 +1,238 @@
+
+.m3
+{
+    height: 450px;
+    background: #f8f8f8;
+}
+.m4
+{
+    width: 1200px;
+    margin: 0 auto;
+}
+.m5
+{
+    width: 270px;
+    height: 272px;
+    border: 1px solid #c7c7c7;
+    display: inline-block;
+    margin-top: 100px;
+
+}
+.m5 h2
+{
+    font-weight: 100;
+}
+
+.m5:hover{background: #FFFFFF}
+.m5 img
+{
+    width: 70px;
+    height: 70px;
+    margin-top: 78px;
+}
+.am-slides img
+{
+    height: 400px;
+}
+#pcpic
+{
+    margin: 0 auto;
+    position: relative;
+}
+#pcpic img
+{
+    z-index: 0;
+
+}
+.pctext
+{
+    background: #FFFFFF;
+    text-align: left;
+    position: absolute;
+    top: 62px;
+    right: 16%;
+}
+
+#pcp{
+    margin: 27px 20px 0 20px;
+    font-size: 14px;
+}
+#pcp p{
+    line-height: normal;
+    margin-right: 0;
+}
+#pckh
+{
+    text-align: center;
+    font-size: 28px;
+    margin-top: 83px;
+}
+#pckh p
+{
+    font-size: 34px;
+}
+#pckhpic
+{
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+#pckulogo
+{
+    height: 301px;
+}
+#pckulogo div
+{
+
+    height: 150px;
+}
+#pckulianxi
+{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 33px;
+}
+#pcmap
+{
+    margin: 0 auto;
+    width: 1200px;
+    height: 466px;
+    margin-top: 40px;
+}
+#pcxx{
+    width: 1200px;
+    margin: 0 auto;
+    position: relative;
+}
+#pcfhtop
+{
+    position: fixed;
+    right: 25px;
+    bottom:114px;
+    width: 50px;
+    z-index: 1;
+
+}
+#pcphone{
+    position: fixed;
+    right: 27px;
+    bottom:190px;
+    z-index: 1;
+}
+#pchidephone
+{
+    display: none;
+}
+#pchidephonet
+{
+    position: fixed;
+    right: 80px;
+    bottom: 186px;
+    background: #FFF;
+    z-index: 1;
+
+}
+#pchidephonet p
+{
+    margin: 5px;
+}
+#pchidephonei
+{
+    position: fixed;
+    right: 72px;
+    bottom: 187px;
+
+    z-index: 0;
+
+}
+#pchidephonei i
+{
+    font-size: 20px;
+    color: #fff;
+    margin-right: -5px;
+}
+#pcewmm
+{
+    position: fixed;
+    right: 27px;
+    bottom: 232px;
+    z-index: 1;
+}
+#pchideewm
+{
+    position: fixed;
+    right: 80px;
+    bottom: 232px;
+    display: none;
+
+}
+#pcxx1{
+    margin-top: 30px;
+    float: left;
+}
+#pcxx1 div
+{
+    display: inline-block;
+
+    text-align: left;
+}
+#pcxx1 p
+{
+    margin: 0px 0 14px 0;
+}
+#pcxx1 input{
+    width: 371px;
+    border: 1px solid #c7c7c7;
+    height: 42px;
+}
+#pcxx2
+{
+    float: left;
+    text-align: left;
+    margin-top: 23px;
+}
+#pcxx2 input{
+    width:1200px;
+    height: 100px;
+}
+#pcxx2 p
+{
+    margin: 0 0 11px 0;
+}
+#pcyzm
+{
+    float: left;
+    margin-top: 30px;
+    text-align: left;
+}
+#pcyzm input
+{
+    width: 122px;
+    height: 43px;
+}
+#pcewm
+{
+    float: right;
+    margin-top: 37px;
+    position: relative;
+}
+#pcewm1
+{
+    text-align: left;
+    display: inline-block;
+    line-height: 19px;
+    margin-right: -2px;
+}
+#pcewm2
+{
+    display: inline-block;
+    position: absolute;
+    left: -221px;
+}
+
+.icon {
+    width: 1em; height: 1em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+}
